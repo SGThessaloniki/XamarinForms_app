@@ -1,0 +1,2 @@
+C:\Users\Zaf\Documents\Visual Studio 2017\Projects\sgforms\sgforms\sgforms.UWP\sgforms.UWP.csproj;x86
+C:\Users\Zaf\Documents\Visual Studio 2017\Projects\sgforms\sgforms\sgforms\sgforms.csproj;neutral

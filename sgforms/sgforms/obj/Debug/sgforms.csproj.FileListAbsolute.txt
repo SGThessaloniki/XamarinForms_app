@@ -1,0 +1,15 @@
+C:\Users\Zaf\Documents\Visual Studio 2017\Projects\sgforms\sgforms\sgforms\bin\Debug\sgforms.dll
+C:\Users\Zaf\Documents\Visual Studio 2017\Projects\sgforms\sgforms\sgforms\bin\Debug\sgforms.pdb
+C:\Users\Zaf\Documents\Visual Studio 2017\Projects\sgforms\sgforms\sgforms\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Zaf\Documents\Visual Studio 2017\Projects\sgforms\sgforms\sgforms\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Zaf\Documents\Visual Studio 2017\Projects\sgforms\sgforms\sgforms\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Zaf\Documents\Visual Studio 2017\Projects\sgforms\sgforms\sgforms\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Zaf\Documents\Visual Studio 2017\Projects\sgforms\sgforms\sgforms\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Zaf\Documents\Visual Studio 2017\Projects\sgforms\sgforms\sgforms\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Zaf\Documents\Visual Studio 2017\Projects\sgforms\sgforms\sgforms\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Zaf\Documents\Visual Studio 2017\Projects\sgforms\sgforms\sgforms\obj\Debug\sgforms.csproj.CoreCompileInputs.cache
+C:\Users\Zaf\Documents\Visual Studio 2017\Projects\sgforms\sgforms\sgforms\obj\Debug\sgforms.MainPage.xaml.g.cs
+C:\Users\Zaf\Documents\Visual Studio 2017\Projects\sgforms\sgforms\sgforms\obj\Debug\sgforms.App.xaml.g.cs
+C:\Users\Zaf\Documents\Visual Studio 2017\Projects\sgforms\sgforms\sgforms\obj\Debug\sgforms.dll
+C:\Users\Zaf\Documents\Visual Studio 2017\Projects\sgforms\sgforms\sgforms\obj\Debug\sgforms.pdb
+C:\Users\Zaf\Documents\Visual Studio 2017\Projects\sgforms\sgforms\sgforms\obj\Debug\sgforms.csprojResolveAssemblyReference.cache

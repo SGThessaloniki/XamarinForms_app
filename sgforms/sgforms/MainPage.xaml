@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:sgforms"
+             x:Class="sgforms.MainPage">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center"
+                     HorizontalOptions="Center">
+            <Label
+                x:Name="Label1"
+                Text="Hello SG!"/>
+
+            <AbsoluteLayout>
+                <Image
+                    x:Name="Img1"/>
+                <Image
+                    x:Name="Img2"/>
+            </AbsoluteLayout>
+            
+            <Slider
+                x:Name="Sl"
+                
+                ValueChanged="Sl_ValueChanged"/>
+
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>
